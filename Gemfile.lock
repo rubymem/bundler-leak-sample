@@ -63,7 +63,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  grape (< 0.2.4)
+  grape
   sinatra (~> 2.0)
 
 BUNDLED WITH

@@ -1,6 +1,6 @@
 source 'https://rubygems.org/'
 
-gem "grape", "< 0.2.4"
+gem "grape"
 gem "sinatra", "~> 2.0"
 
 
